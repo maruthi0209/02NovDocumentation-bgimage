@@ -1,0 +1,17 @@
+div {
+    width: 100vw;
+    height: 100vh;
+    border: 1px dotted lightblue;
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/c/cb/Honda_Civic_Type_R_%28FK%3B_France%29_front_view.jpg');
+    background-size: contain;
+    text-align: center;
+}
+
+p{
+    position: absolute;
+    top: 50%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.2rem;
+    color: yellow;
+}
+
